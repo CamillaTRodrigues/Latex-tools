@@ -1,0 +1,172 @@
+%%% DOCUMENT CLASS %%%
+\documentclass[12pt, a4paper, oneside]{article}
+
+%%% GENERAL PACKAGES %%%
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[paperheight=11.69in,paperwidth=8.27in,left=3cm,right=2cm,top=2cm,bottom=2cm,headheight=14.5pt,
+footskip=100pt,includehead]{geometry}
+\usepackage[svgnames,table]{xcolor}
+\usepackage{eso-pic,graphicx}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{ragged2e}[justifying]
+\usepackage{blindtext}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{etoolbox}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{soulutf8} 
+\usepackage{tcolorbox}
+\usepackage[export]{adjustbox}
+\usepackage{mathptmx}
+\usepackage{anyfontsize} %% Change the font size at any moment
+\usepackage{t1enc}
+
+%%% GRAPHIC PACKAGES %%%
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\graphicspath{{./images/}{./gnuplot/}}
+
+%%% CODE LISTING COLORS %%%
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+%%%%%%%%%%%% PACKAGES USED IN THIS MANUAL %%%%%%%%%%%%%%
+\usepackage{listings}
+
+
+%% POLY FRONT PAGE IMAGE %%
+\AddToShipoutPicture*{
+  \AtPageLowerLeft{\includegraphics[width=\paperwidth,height=\paperheight]{logos/front.png}}
+}
+
+%% DEFINING POLYTECHNIQUE COLOR %%
+%% RGB values were validate at the Poly Guide Mark document %%
+\definecolor{black}{RGB}{0,0,0}
+\definecolor{blue}{RGB}{65,170,230}
+\definecolor{green}{RGB}{140,200,60}
+\definecolor{orange}{RGB}{250,150,30}
+\definecolor{red}{RGB}{185,30,50}
+\definecolor{gray}{RGB}{166,168,171}
+
+%%%%%%%%%%% INFORMATION - TO EDIT %%%%%%%%%%%%%%%
+\newcommand{\origin}{Department of Mineral Engineering \\ 
+Prof. Fabien-Ouellet group of research}
+\newcommand{\documentname}{New Latex tools}
+\newcommand{\documentnamecaps}{NEW LATEX TOOLS}
+
+
+%%% PAGE LAYOUT %%%
+\pagestyle{fancy}
+
+% Header
+\let\oldheadrule\headrule%
+\renewcommand{\headrule}{\color{black}\oldheadrule}
+\renewcommand{\headrulewidth}{0.1pt}
+\fancyhf{}
+\rhead{\color{black} \documentname}
+\setlength{\headsep}{0.2in}
+
+% Footer
+\let\FootRule\footrule
+\renewcommand\footrule{\textcolor{black}{\FootRule}}
+\fancyfootoffset{3cm} 
+\lfoot{\noindent%
+\begin{tcolorbox}[colback=black,width=1.515\textwidth, outer arc=0mm,top=0mm,bottom=11mm, boxrule=0mm]
+\includegraphics[scale=0.25,valign=c]{logos/polytechnique_white.png}
+
+\end{tcolorbox}}
+\cfoot{}
+\renewcommand{\footrulewidth}{4pt}
+
+% Line spacing
+\linespread{1.25} 
+% Documente structure
+\titleformat{\section}
+	{\color{black}\normalfont\large\bfseries}{\thesection.}{1em}{}
+	[{\color{black} \titlerule[1.8pt]}]
+\titleformat{\subsection}
+	{\color{black}\large\bfseries}{\thesubsection\enspace\ul{}}{-0.10em}{\ul}
+\titleformat{\subsubsection}
+	{\color{black}\large\bfseries}{\thesubsubsection\enspace\ul{}}{-0.10em}{\ul}
+
+
+%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%%% FRONT PAGE %%%
+\begin{titlepage}
+	\begin{textblock*}{13cm}(7cm, 13cm)
+		{\bfseries\Huge
+    		\color{black}
+    		\flushright
+    		{\fontsize{40}{40}\selectfont \documentnamecaps}
+		}   
+	\end{textblock*}
+
+	\begin{textblock*}{13cm}(7cm, 15cm)
+		{\bfseries
+			\vspace{-0.1cm}
+			\color{red}
+			\flushright
+			\normalsize
+			\origin\\
+		}   
+	\end{textblock*}
+
+	\begin{textblock*}{10cm}(14cm, 27cm)
+		{\bfseries\small
+  		  	\color{black}
+  		  	\flushright
+			This is not an official document
+		}
+	\end{textblock*}
+
+    \vspace*{\baselineskip}
+\end{titlepage}
+
+%%% SUMMARY %%%
+\begingroup
+    \fontsize{14pt}{18pt}\selectfont
+    \newpage
+    \fancypagestyle{plain}{}
+    \renewcommand{\contentsname}{\bfseries\Large\color{black} TABLE OF CONTENTS\hfill}   
+    \makeatletter
+    \renewcommand{\l@section}{\bfseries\@dottedtocline{1}{0em}{2em}}
+	\renewcommand{\l@subsection}{\mdseries\@dottedtocline{2}{0.5em}{2.5em}}
+	\renewcommand{\l@subsubsection}{\@dottedtocline{3}{1.0em}{3.5em}}
+    \makeatother
+    \flushleft
+    \tableofcontents
+    \pagenumbering{gobble}
+    \newpage
+\endgroup
+
+%%% FIGURES AND TABLES %%
+\begingroup
+	\fancypagestyle{plain}{}
+	\renewcommand{\listtablename}{\color{black} LIST OF TABLES}
+	\renewcommand{\listfigurename}{\color{black} LIST OF FIGURES}
+	\listoftables
+	\listoffigures
+	\newpage
+\endgroup
+
+%% DOCUMENT %%
+\include{Introduction}
+\include{manual}
+
+%% TEXT LAYOUT %%
+\pagenumbering{arabic}
+\justify
+\renewcommand{\arraystretch}{1.2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{7.68pt}
+
+
+
+\end{document}

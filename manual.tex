@@ -1,0 +1,63 @@
+\section{CODE LISTING}
+
+ 
+The package \textbf{Listings} allow the writer to introduce and highlight codes (e.g python).
+
+The basic form of the code provides as an output in black. Commentaries, libraries and other codes attributes can be highlighted once you indicate the language you want to use, as an example:
+
+\begin{lstlisting}[language=Python]
+# Hour of occurrence - distribution
+def histogram(occurrence_list, name):
+	hour_list = [t.hour for t in occurrence_list]
+	numbers = [x for x in range(0,24)]
+	labels = map(lambda x: str(x), numbers)
+	plt.xticks(numbers, labels)
+	plt.xlim(0,24)
+	plt.xlabel("Time of day (UTC - 3)", fontsize = 14)
+	plt.ylabel("Number of occurrence", fontsize = 14)
+	plt.title("Occurrence of events", fontsize = 18)
+	plt.hist(hour_list, color = 'brown')
+	plt.grid(c = 'silver')
+	plt.show()	
+\end{lstlisting}
+
+However, the code indentation must be introduce manually.
+
+Another tool the Listing package is to import a code. Once again, the code language must be indicate. As in the following example:
+
+\lstinputlisting[language=python]{Test.py}
+
+If you upload the code content and save it, it will update automatically in o latex document. In this case, the file is inside the latex paste. However, is it possible to add codes by indicating their directory. In addition, it is possible to select only a part of the code the "firstline" and "lastline" command. As an example we will only select the second line of the imported code:
+
+\lstinputlisting[language=python, firstline=3, lastline=4]{Test.py}
+
+The listings package is customisable. The code colours can be modified by using the \textbf{XColor} package. The color definition using RGB is at the main.tex file.
+
+To implement the new style the following code (see the manual.tex source) can be used as base.
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+
+\lstset{style=mystyle}
+
+It is important to highlight the aforementioned code must be implement in the main.tex file. 
+
+\lstinputlisting[language=python]{Test.py}
+
+
