@@ -60,4 +60,40 @@ It is important to highlight the aforementioned code must be implement in the ma
 
 \lstinputlisting[language=python]{Test.py}
 
+\section{INSERTING GIF IN LATEX}
+
+Two steps are necessary to insert a image format gif in pdf. The first is run a command to convert the gif file to multiple png files. To perform this conversion, the "magick" program will be need. 
+
+To download it, you must access https://imagemagick.org/script/convert.php.
+
+Then, in your computer command prompt, connect to the folder in which you have the gif file. In this manual, we used image from a SpecFem 2D example. For a gif named "name.gif", type the following command:
+
+\textbf{magick convert - coalesce name.gif name.png}
+
+The png files will be storage at the same directory. Depending on the gif file size, this process can take a while.
+
+As an alternative, online converters can be applied. For large gifs, this browser converters are usually more efficient.
+
+To insert the multiple png files as a gif, use the following latex command (see the tex file), providing the package options, frame rate, file base name and first and last file ID.
+
+\noindent\animategraphics[loop, width=15cm]{20}{spec/specfem-}{0}{299}
+
+The main option provided by the animated package are:
+
+\begin{itemize}
+	\item \textbf{autoplay} the gif starts automatically;
+	\item \textbf{loop} the gif is reproduced in loop;
+	\item \textbf{width=h-size} define the gif dimension; and
+	\item \textbf{controls[=all | true | on]} or \textbf{controls=(none | false | off) |} \\ \textbf{{[play][,step][,stop][,speed]}} adds and customizes controls for the animation.
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
 

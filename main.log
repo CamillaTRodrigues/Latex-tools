@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.11)  11 NOV 2022 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.11)  18 NOV 2022 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,21 +707,58 @@ Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 sty
 Package: t1enc 1994/06/01 Standard LaTeX package
 )
-(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pk
-g\epstopdf.sty
-Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/setspace\se
+tspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/animate\ani
+mate.sty
+Package: animate 2022/09/15 PDF & SVG animations from files and inline graphics
 
-(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfe
-xt.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 
-(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinek
-eys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\k
-voptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen
+.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\if
+draft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.
+sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count302
+\calc@Bcount=\count303
+\calc@Adimen=\dimen279
+\calc@Bdimen=\dimen280
+\calc@Askip=\skip109
+\calc@Bskip=\skip110
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count304
+\calc@Cskip=\skip111
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/media9\pdfb
+ase.sty
+Package: pdfbase 2022/08/04 v0.55 driver independent access to low-level PDF fe
+atures
+
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box73
+)
+\g_pbs_page_int=\count306
+\g_pbs_oc_int=\count307
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-a
+bspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-b
+ase.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
 
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\l
 txcmds.sty
@@ -730,7 +767,11 @@ Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\k
 vsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinek
+eys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmd
 s\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -738,6 +779,57 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\aux
+hook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegs
+hi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\c@abspage=\count308
+Package zref Info: New property: abspage on input line 65.
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/ocgx2\ocgba
+se.sty
+Package: ocgbase 2022/08/04 v0.22 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count309
+)
+\@anim@box=\box74
+\@anim@measbox=\box75
+\@anim@tmpdima=\dimen281
+\@anim@tmpdimb=\dimen282
+\@anim@num=\count310
+\@anim@curframe=\count311
+\@anim@curframe@zb=\count312
+\@anim@resizeflags=\count313
+\@anim@skipfram=\count314
+\@anim@mulframecnt=\count315
+\@anim@@tmlnfile=\read4
+\@anim@tmpcnt=\count316
+\c@@anim@ltxcnt=\count317
+\@anim@curlayer=\count318
+\@anim@lineno=\count319
+\@anim@curfield=\count320
+\@anim@@resizeflags=\count321
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pk
+g\epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfe
+xt.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\k
+voptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 )
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pk
 g\epstopdf-base.sty
@@ -755,60 +847,54 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )))
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/listings\li
 stings.sty
-\lst@mode=\count302
-\lst@gtempboxa=\box73
+\lst@mode=\count322
+\lst@gtempboxa=\box76
 \lst@token=\toks44
-\lst@length=\count303
-\lst@currlwidth=\dimen279
-\lst@column=\count304
-\lst@pos=\count305
-\lst@lostspace=\dimen280
-\lst@width=\dimen281
-\lst@newlines=\count306
-\lst@lineno=\count307
-\lst@maxwidth=\dimen282
+\lst@length=\count323
+\lst@currlwidth=\dimen283
+\lst@column=\count324
+\lst@pos=\count325
+\lst@lostspace=\dimen284
+\lst@width=\dimen285
+\lst@newlines=\count326
+\lst@lineno=\count327
+\lst@maxwidth=\dimen286
 
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/listings\ls
 tmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count308
-\lst@skipnumbers=\count309
-\lst@framebox=\box74
+\c@lstnumber=\count328
+\lst@skipnumbers=\count329
+\lst@framebox=\box77
 )
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/listings\li
 stings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 99
-.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 10
+8.
 
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ph
 v.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
-)
-(C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l
-3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count310
-\l__pdf_internal_box=\box75
 ) (main.aux (Introduction.aux) (manual.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -848,29 +934,29 @@ LaTeX Font Info:    ... okay on input line 99.
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/context/base/mkii
 \supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count311
-\scratchdimen=\dimen283
-\scratchbox=\box76
-\nofMPsegments=\count312
-\nofMParguments=\count313
+\scratchcounter=\count330
+\scratchdimen=\dimen287
+\scratchbox=\box78
+\nofMPsegments=\count331
+\nofMParguments=\count332
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count314
-\MPscratchDim=\dimen284
-\MPnumerator=\count315
-\makeMPintoPDFobject=\count316
+\MPscratchCnt=\count333
+\MPscratchDim=\dimen288
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
 \everyMPtoPDFconversion=\toks46
 )
-\big@size=\dimen285
-\c@lstlisting=\count317
+\big@size=\dimen289
+\c@lstlisting=\count336
 
-Overfull \hbox (4.10696pt too wide) in paragraph at lines 107--109
+Overfull \hbox (4.10696pt too wide) in paragraph at lines 116--118
 []\T1/phv/b/n/40 NEW LA-TEX TOOLS
  []
 
 <logos/front.png, id=4, 542.025pt x 782.925pt>
 File: logos/front.png Graphic file (type png)
 <use logos/front.png>
-Package pdftex.def Info: logos/front.png  used on input line 130.
+Package pdftex.def Info: logos/front.png  used on input line 139.
 (pdftex.def)             Requested size: 597.69324pt x 844.87743pt.
 [1
 
@@ -923,15 +1009,15 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.40009> not available
 \openout4 = `main.toc'.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 155.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 155.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 146.
-<logos/polytechnique_white.png, id=10, 592.8549pt x 134.4222pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 155.
+<logos/polytechnique_white.png, id=11, 592.8549pt x 134.4222pt>
 File: logos/polytechnique_white.png Graphic file (type png)
 <use logos/polytechnique_white.png>
-Package pdftex.def Info: logos/polytechnique_white.png  used on input line 146.
+Package pdftex.def Info: logos/polytechnique_white.png  used on input line 155.
 
 (pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
 
@@ -949,7 +1035,7 @@ Overfull \hbox (63.81905pt too wide) has occurred while \output is active
 
 File: logos/polytechnique_white.png Graphic file (type png)
 <use logos/polytechnique_white.png>
-Package pdftex.def Info: logos/polytechnique_white.png  used on input line 156.
+Package pdftex.def Info: logos/polytechnique_white.png  used on input line 165.
 
 (pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
 
@@ -963,7 +1049,7 @@ Overfull \hbox (63.81905pt too wide) has occurred while \output is active
  (Introduction.tex)
 File: logos/polytechnique_white.png Graphic file (type png)
 <use logos/polytechnique_white.png>
-Package pdftex.def Info: logos/polytechnique_white.png  used on input line 160.
+Package pdftex.def Info: logos/polytechnique_white.png  used on input line 169.
 
 (pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
 
@@ -997,7 +1083,7 @@ consecutive:
 )
 File: logos/polytechnique_white.png Graphic file (type png)
 <use logos/polytechnique_white.png>
-Package pdftex.def Info: logos/polytechnique_white.png  used on input line 37.
+Package pdftex.def Info: logos/polytechnique_white.png  used on input line 35.
 (pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
 
 Overfull \hbox (63.81905pt too wide) has occurred while \output is active
@@ -1009,21 +1095,1932 @@ Overfull \hbox (63.81905pt too wide) has occurred while \output is active
 
 
 ]
-Overfull \hbox (7.09785pt too wide) in paragraph at lines 59--60
-[]\T1/phv/m/n/12 It is im-por-tant to high-light the afore-men-tioned code must
- be im-ple-ment in the main.tex
- []
-
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
 1.
 
 (C:\Users\Camilla Rodrigues\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt
 .fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (Test.py))
+) (Test.py)
+<spec/specfem-0.png, id=32, 770.88pt x 338.26375pt>
+File: spec/specfem-0.png Graphic file (type png)
+<use spec/specfem-0.png>
+Package pdftex.def Info: spec/specfem-0.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-0.png> <a0,fr0>
+<spec/specfem-1.png, id=36, 770.88pt x 338.26375pt>
+File: spec/specfem-1.png Graphic file (type png)
+<use spec/specfem-1.png>
+Package pdftex.def Info: spec/specfem-1.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-1.png> <a0,fr1>
+<spec/specfem-2.png, id=40, 770.88pt x 338.26375pt>
+File: spec/specfem-2.png Graphic file (type png)
+<use spec/specfem-2.png>
+Package pdftex.def Info: spec/specfem-2.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-2.png> <a0,fr2>
+<spec/specfem-3.png, id=44, 770.88pt x 338.26375pt>
+File: spec/specfem-3.png Graphic file (type png)
+<use spec/specfem-3.png>
+Package pdftex.def Info: spec/specfem-3.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-3.png> <a0,fr3>
+<spec/specfem-4.png, id=48, 770.88pt x 338.26375pt>
+File: spec/specfem-4.png Graphic file (type png)
+<use spec/specfem-4.png>
+Package pdftex.def Info: spec/specfem-4.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-4.png> <a0,fr4>
+<spec/specfem-5.png, id=52, 770.88pt x 338.26375pt>
+File: spec/specfem-5.png Graphic file (type png)
+<use spec/specfem-5.png>
+Package pdftex.def Info: spec/specfem-5.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-5.png> <a0,fr5>
+<spec/specfem-6.png, id=56, 770.88pt x 338.26375pt>
+File: spec/specfem-6.png Graphic file (type png)
+<use spec/specfem-6.png>
+Package pdftex.def Info: spec/specfem-6.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-6.png>
+<a0,fr6>
+<spec/specfem-7.png, id=60, 770.88pt x 338.26375pt>
+File: spec/specfem-7.png Graphic file (type png)
+<use spec/specfem-7.png>
+Package pdftex.def Info: spec/specfem-7.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-7.png> <a0,fr7>
+<spec/specfem-8.png, id=64, 770.88pt x 338.26375pt>
+File: spec/specfem-8.png Graphic file (type png)
+<use spec/specfem-8.png>
+Package pdftex.def Info: spec/specfem-8.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-8.png> <a0,fr8>
+<spec/specfem-9.png, id=68, 770.88pt x 338.26375pt>
+File: spec/specfem-9.png Graphic file (type png)
+<use spec/specfem-9.png>
+Package pdftex.def Info: spec/specfem-9.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-9.png> <a0,fr9>
+<spec/specfem-10.png, id=72, 770.88pt x 338.26375pt>
+File: spec/specfem-10.png Graphic file (type png)
+<use spec/specfem-10.png>
+Package pdftex.def Info: spec/specfem-10.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-10.png> <a0,fr10>
+<spec/specfem-11.png, id=76, 770.88pt x 338.26375pt>
+File: spec/specfem-11.png Graphic file (type png)
+<use spec/specfem-11.png>
+Package pdftex.def Info: spec/specfem-11.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-11.png> <a0,fr11>
+<spec/specfem-12.png, id=80, 770.88pt x 338.26375pt>
+File: spec/specfem-12.png Graphic file (type png)
+<use spec/specfem-12.png>
+Package pdftex.def Info: spec/specfem-12.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-12.png> <a0,fr12>
+<spec/specfem-13.png, id=84, 770.88pt x 338.26375pt>
+File: spec/specfem-13.png Graphic file (type png)
+<use spec/specfem-13.png>
+Package pdftex.def Info: spec/specfem-13.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-13.png>
+<a0,fr13>
+<spec/specfem-14.png, id=88, 770.88pt x 338.26375pt>
+File: spec/specfem-14.png Graphic file (type png)
+<use spec/specfem-14.png>
+Package pdftex.def Info: spec/specfem-14.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-14.png> <a0,fr14>
+<spec/specfem-15.png, id=92, 770.88pt x 338.26375pt>
+File: spec/specfem-15.png Graphic file (type png)
+<use spec/specfem-15.png>
+Package pdftex.def Info: spec/specfem-15.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-15.png> <a0,fr15>
+<spec/specfem-16.png, id=96, 770.88pt x 338.26375pt>
+File: spec/specfem-16.png Graphic file (type png)
+<use spec/specfem-16.png>
+Package pdftex.def Info: spec/specfem-16.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-16.png> <a0,fr16>
+<spec/specfem-17.png, id=100, 770.88pt x 338.26375pt>
+File: spec/specfem-17.png Graphic file (type png)
+<use spec/specfem-17.png>
+Package pdftex.def Info: spec/specfem-17.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-17.png> <a0,fr17>
+<spec/specfem-18.png, id=104, 770.88pt x 338.26375pt>
+File: spec/specfem-18.png Graphic file (type png)
+<use spec/specfem-18.png>
+Package pdftex.def Info: spec/specfem-18.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-18.png> <a0,fr18>
+<spec/specfem-19.png, id=108, 770.88pt x 338.26375pt>
+File: spec/specfem-19.png Graphic file (type png)
+<use spec/specfem-19.png>
+Package pdftex.def Info: spec/specfem-19.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-19.png> <a0,fr19>
+<spec/specfem-20.png, id=112, 770.88pt x 338.26375pt>
+File: spec/specfem-20.png Graphic file (type png)
+<use spec/specfem-20.png>
+Package pdftex.def Info: spec/specfem-20.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-20.png> <a0,fr20>
+<spec/specfem-21.png, id=116, 770.88pt x 338.26375pt>
+File: spec/specfem-21.png Graphic file (type png)
+<use spec/specfem-21.png>
+Package pdftex.def Info: spec/specfem-21.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-21.png> <a0,fr21>
+<spec/specfem-22.png, id=120, 770.88pt x 338.26375pt>
+File: spec/specfem-22.png Graphic file (type png)
+<use spec/specfem-22.png>
+Package pdftex.def Info: spec/specfem-22.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-22.png> <a0,fr22>
+<spec/specfem-23.png, id=124, 770.88pt x 338.26375pt>
+File: spec/specfem-23.png Graphic file (type png)
+<use spec/specfem-23.png>
+Package pdftex.def Info: spec/specfem-23.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-23.png> <a0,fr23>
+<spec/specfem-24.png, id=128, 770.88pt x 338.26375pt>
+File: spec/specfem-24.png Graphic file (type png)
+<use spec/specfem-24.png>
+Package pdftex.def Info: spec/specfem-24.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-24.png> <a0,fr24>
+<spec/specfem-25.png, id=132, 770.88pt x 338.26375pt>
+File: spec/specfem-25.png Graphic file (type png)
+<use spec/specfem-25.png>
+Package pdftex.def Info: spec/specfem-25.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-25.png> <a0,fr25>
+<spec/specfem-26.png, id=136, 770.88pt x 338.26375pt>
+File: spec/specfem-26.png Graphic file (type png)
+<use spec/specfem-26.png>
+Package pdftex.def Info: spec/specfem-26.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-26.png> <a0,fr26>
+<spec/specfem-27.png, id=140, 770.88pt x 338.26375pt>
+File: spec/specfem-27.png Graphic file (type png)
+<use spec/specfem-27.png>
+Package pdftex.def Info: spec/specfem-27.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-27.png> <a0,fr27>
+<spec/specfem-28.png, id=144, 770.88pt x 338.26375pt>
+File: spec/specfem-28.png Graphic file (type png)
+<use spec/specfem-28.png>
+Package pdftex.def Info: spec/specfem-28.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-28.png> <a0,fr28>
+<spec/specfem-29.png, id=148, 770.88pt x 338.26375pt>
+File: spec/specfem-29.png Graphic file (type png)
+<use spec/specfem-29.png>
+Package pdftex.def Info: spec/specfem-29.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-29.png>
+<a0,fr29>
+<spec/specfem-30.png, id=152, 770.88pt x 338.26375pt>
+File: spec/specfem-30.png Graphic file (type png)
+<use spec/specfem-30.png>
+Package pdftex.def Info: spec/specfem-30.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-30.png> <a0,fr30>
+<spec/specfem-31.png, id=156, 770.88pt x 338.26375pt>
+File: spec/specfem-31.png Graphic file (type png)
+<use spec/specfem-31.png>
+Package pdftex.def Info: spec/specfem-31.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-31.png> <a0,fr31>
+<spec/specfem-32.png, id=160, 770.88pt x 338.26375pt>
+File: spec/specfem-32.png Graphic file (type png)
+<use spec/specfem-32.png>
+Package pdftex.def Info: spec/specfem-32.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-32.png> <a0,fr32>
+<spec/specfem-33.png, id=164, 770.88pt x 338.26375pt>
+File: spec/specfem-33.png Graphic file (type png)
+<use spec/specfem-33.png>
+Package pdftex.def Info: spec/specfem-33.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-33.png> <a0,fr33>
+<spec/specfem-34.png, id=168, 770.88pt x 338.26375pt>
+File: spec/specfem-34.png Graphic file (type png)
+<use spec/specfem-34.png>
+Package pdftex.def Info: spec/specfem-34.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-34.png> <a0,fr34>
+<spec/specfem-35.png, id=172, 770.88pt x 338.26375pt>
+File: spec/specfem-35.png Graphic file (type png)
+<use spec/specfem-35.png>
+Package pdftex.def Info: spec/specfem-35.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-35.png> <a0,fr35>
+<spec/specfem-36.png, id=176, 770.88pt x 338.26375pt>
+File: spec/specfem-36.png Graphic file (type png)
+<use spec/specfem-36.png>
+Package pdftex.def Info: spec/specfem-36.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-36.png> <a0,fr36>
+<spec/specfem-37.png, id=180, 770.88pt x 338.26375pt>
+File: spec/specfem-37.png Graphic file (type png)
+<use spec/specfem-37.png>
+Package pdftex.def Info: spec/specfem-37.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-37.png> <a0,fr37>
+<spec/specfem-38.png, id=184, 770.88pt x 338.26375pt>
+File: spec/specfem-38.png Graphic file (type png)
+<use spec/specfem-38.png>
+Package pdftex.def Info: spec/specfem-38.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-38.png> <a0,fr38>
+<spec/specfem-39.png, id=188, 770.88pt x 338.26375pt>
+File: spec/specfem-39.png Graphic file (type png)
+<use spec/specfem-39.png>
+Package pdftex.def Info: spec/specfem-39.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-39.png> <a0,fr39>
+<spec/specfem-40.png, id=192, 770.88pt x 338.26375pt>
+File: spec/specfem-40.png Graphic file (type png)
+<use spec/specfem-40.png>
+Package pdftex.def Info: spec/specfem-40.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-40.png> <a0,fr40>
+<spec/specfem-41.png, id=196, 770.88pt x 338.26375pt>
+File: spec/specfem-41.png Graphic file (type png)
+<use spec/specfem-41.png>
+Package pdftex.def Info: spec/specfem-41.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-41.png> <a0,fr41>
+<spec/specfem-42.png, id=200, 770.88pt x 338.26375pt>
+File: spec/specfem-42.png Graphic file (type png)
+<use spec/specfem-42.png>
+Package pdftex.def Info: spec/specfem-42.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-42.png> <a0,fr42>
+<spec/specfem-43.png, id=204, 770.88pt x 338.26375pt>
+File: spec/specfem-43.png Graphic file (type png)
+<use spec/specfem-43.png>
+Package pdftex.def Info: spec/specfem-43.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-43.png> <a0,fr43>
+<spec/specfem-44.png, id=208, 770.88pt x 338.26375pt>
+File: spec/specfem-44.png Graphic file (type png)
+<use spec/specfem-44.png>
+Package pdftex.def Info: spec/specfem-44.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-44.png> <a0,fr44>
+<spec/specfem-45.png, id=212, 770.88pt x 338.26375pt>
+File: spec/specfem-45.png Graphic file (type png)
+<use spec/specfem-45.png>
+Package pdftex.def Info: spec/specfem-45.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-45.png>
+<a0,fr45>
+<spec/specfem-46.png, id=216, 770.88pt x 338.26375pt>
+File: spec/specfem-46.png Graphic file (type png)
+<use spec/specfem-46.png>
+Package pdftex.def Info: spec/specfem-46.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-46.png> <a0,fr46>
+<spec/specfem-47.png, id=220, 770.88pt x 338.26375pt>
+File: spec/specfem-47.png Graphic file (type png)
+<use spec/specfem-47.png>
+Package pdftex.def Info: spec/specfem-47.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-47.png> <a0,fr47>
+<spec/specfem-48.png, id=224, 770.88pt x 338.26375pt>
+File: spec/specfem-48.png Graphic file (type png)
+<use spec/specfem-48.png>
+Package pdftex.def Info: spec/specfem-48.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-48.png> <a0,fr48>
+<spec/specfem-49.png, id=228, 770.88pt x 338.26375pt>
+File: spec/specfem-49.png Graphic file (type png)
+<use spec/specfem-49.png>
+Package pdftex.def Info: spec/specfem-49.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-49.png> <a0,fr49>
+<spec/specfem-50.png, id=232, 770.88pt x 338.26375pt>
+File: spec/specfem-50.png Graphic file (type png)
+<use spec/specfem-50.png>
+Package pdftex.def Info: spec/specfem-50.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-50.png> <a0,fr50>
+<spec/specfem-51.png, id=236, 770.88pt x 338.26375pt>
+File: spec/specfem-51.png Graphic file (type png)
+<use spec/specfem-51.png>
+Package pdftex.def Info: spec/specfem-51.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-51.png> <a0,fr51>
+<spec/specfem-52.png, id=240, 770.88pt x 338.26375pt>
+File: spec/specfem-52.png Graphic file (type png)
+<use spec/specfem-52.png>
+Package pdftex.def Info: spec/specfem-52.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-52.png> <a0,fr52>
+<spec/specfem-53.png, id=244, 770.88pt x 338.26375pt>
+File: spec/specfem-53.png Graphic file (type png)
+<use spec/specfem-53.png>
+Package pdftex.def Info: spec/specfem-53.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-53.png> <a0,fr53>
+<spec/specfem-54.png, id=248, 770.88pt x 338.26375pt>
+File: spec/specfem-54.png Graphic file (type png)
+<use spec/specfem-54.png>
+Package pdftex.def Info: spec/specfem-54.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-54.png> <a0,fr54>
+<spec/specfem-55.png, id=252, 770.88pt x 338.26375pt>
+File: spec/specfem-55.png Graphic file (type png)
+<use spec/specfem-55.png>
+Package pdftex.def Info: spec/specfem-55.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-55.png> <a0,fr55>
+<spec/specfem-56.png, id=256, 770.88pt x 338.26375pt>
+File: spec/specfem-56.png Graphic file (type png)
+<use spec/specfem-56.png>
+Package pdftex.def Info: spec/specfem-56.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-56.png> <a0,fr56>
+<spec/specfem-57.png, id=260, 770.88pt x 338.26375pt>
+File: spec/specfem-57.png Graphic file (type png)
+<use spec/specfem-57.png>
+Package pdftex.def Info: spec/specfem-57.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-57.png> <a0,fr57>
+<spec/specfem-58.png, id=264, 770.88pt x 338.26375pt>
+File: spec/specfem-58.png Graphic file (type png)
+<use spec/specfem-58.png>
+Package pdftex.def Info: spec/specfem-58.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-58.png> <a0,fr58>
+<spec/specfem-59.png, id=268, 770.88pt x 338.26375pt>
+File: spec/specfem-59.png Graphic file (type png)
+<use spec/specfem-59.png>
+Package pdftex.def Info: spec/specfem-59.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-59.png> <a0,fr59>
+<spec/specfem-60.png, id=272, 770.88pt x 338.26375pt>
+File: spec/specfem-60.png Graphic file (type png)
+<use spec/specfem-60.png>
+Package pdftex.def Info: spec/specfem-60.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-60.png> <a0,fr60>
+<spec/specfem-61.png, id=276, 770.88pt x 338.26375pt>
+File: spec/specfem-61.png Graphic file (type png)
+<use spec/specfem-61.png>
+Package pdftex.def Info: spec/specfem-61.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-61.png>
+<a0,fr61>
+<spec/specfem-62.png, id=280, 770.88pt x 338.26375pt>
+File: spec/specfem-62.png Graphic file (type png)
+<use spec/specfem-62.png>
+Package pdftex.def Info: spec/specfem-62.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-62.png> <a0,fr62>
+<spec/specfem-63.png, id=284, 770.88pt x 338.26375pt>
+File: spec/specfem-63.png Graphic file (type png)
+<use spec/specfem-63.png>
+Package pdftex.def Info: spec/specfem-63.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-63.png> <a0,fr63>
+<spec/specfem-64.png, id=288, 770.88pt x 338.26375pt>
+File: spec/specfem-64.png Graphic file (type png)
+<use spec/specfem-64.png>
+Package pdftex.def Info: spec/specfem-64.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-64.png> <a0,fr64>
+<spec/specfem-65.png, id=292, 770.88pt x 338.26375pt>
+File: spec/specfem-65.png Graphic file (type png)
+<use spec/specfem-65.png>
+Package pdftex.def Info: spec/specfem-65.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-65.png> <a0,fr65>
+<spec/specfem-66.png, id=296, 770.88pt x 338.26375pt>
+File: spec/specfem-66.png Graphic file (type png)
+<use spec/specfem-66.png>
+Package pdftex.def Info: spec/specfem-66.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-66.png> <a0,fr66>
+<spec/specfem-67.png, id=300, 770.88pt x 338.26375pt>
+File: spec/specfem-67.png Graphic file (type png)
+<use spec/specfem-67.png>
+Package pdftex.def Info: spec/specfem-67.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-67.png> <a0,fr67>
+<spec/specfem-68.png, id=304, 770.88pt x 338.26375pt>
+File: spec/specfem-68.png Graphic file (type png)
+<use spec/specfem-68.png>
+Package pdftex.def Info: spec/specfem-68.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-68.png> <a0,fr68>
+<spec/specfem-69.png, id=308, 770.88pt x 338.26375pt>
+File: spec/specfem-69.png Graphic file (type png)
+<use spec/specfem-69.png>
+Package pdftex.def Info: spec/specfem-69.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-69.png> <a0,fr69>
+<spec/specfem-70.png, id=312, 770.88pt x 338.26375pt>
+File: spec/specfem-70.png Graphic file (type png)
+<use spec/specfem-70.png>
+Package pdftex.def Info: spec/specfem-70.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-70.png> <a0,fr70>
+<spec/specfem-71.png, id=316, 770.88pt x 338.26375pt>
+File: spec/specfem-71.png Graphic file (type png)
+<use spec/specfem-71.png>
+Package pdftex.def Info: spec/specfem-71.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-71.png> <a0,fr71>
+<spec/specfem-72.png, id=320, 770.88pt x 338.26375pt>
+File: spec/specfem-72.png Graphic file (type png)
+<use spec/specfem-72.png>
+Package pdftex.def Info: spec/specfem-72.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-72.png> <a0,fr72>
+<spec/specfem-73.png, id=324, 770.88pt x 338.26375pt>
+File: spec/specfem-73.png Graphic file (type png)
+<use spec/specfem-73.png>
+Package pdftex.def Info: spec/specfem-73.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-73.png> <a0,fr73>
+<spec/specfem-74.png, id=328, 770.88pt x 338.26375pt>
+File: spec/specfem-74.png Graphic file (type png)
+<use spec/specfem-74.png>
+Package pdftex.def Info: spec/specfem-74.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-74.png> <a0,fr74>
+<spec/specfem-75.png, id=332, 770.88pt x 338.26375pt>
+File: spec/specfem-75.png Graphic file (type png)
+<use spec/specfem-75.png>
+Package pdftex.def Info: spec/specfem-75.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-75.png> <a0,fr75>
+<spec/specfem-76.png, id=336, 770.88pt x 338.26375pt>
+File: spec/specfem-76.png Graphic file (type png)
+<use spec/specfem-76.png>
+Package pdftex.def Info: spec/specfem-76.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-76.png> <a0,fr76>
+<spec/specfem-77.png, id=340, 770.88pt x 338.26375pt>
+File: spec/specfem-77.png Graphic file (type png)
+<use spec/specfem-77.png>
+Package pdftex.def Info: spec/specfem-77.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-77.png>
+<a0,fr77>
+<spec/specfem-78.png, id=344, 770.88pt x 338.26375pt>
+File: spec/specfem-78.png Graphic file (type png)
+<use spec/specfem-78.png>
+Package pdftex.def Info: spec/specfem-78.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-78.png> <a0,fr78>
+<spec/specfem-79.png, id=348, 770.88pt x 338.26375pt>
+File: spec/specfem-79.png Graphic file (type png)
+<use spec/specfem-79.png>
+Package pdftex.def Info: spec/specfem-79.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-79.png> <a0,fr79>
+<spec/specfem-80.png, id=352, 770.88pt x 338.26375pt>
+File: spec/specfem-80.png Graphic file (type png)
+<use spec/specfem-80.png>
+Package pdftex.def Info: spec/specfem-80.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-80.png> <a0,fr80>
+<spec/specfem-81.png, id=356, 770.88pt x 338.26375pt>
+File: spec/specfem-81.png Graphic file (type png)
+<use spec/specfem-81.png>
+Package pdftex.def Info: spec/specfem-81.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-81.png> <a0,fr81>
+<spec/specfem-82.png, id=360, 770.88pt x 338.26375pt>
+File: spec/specfem-82.png Graphic file (type png)
+<use spec/specfem-82.png>
+Package pdftex.def Info: spec/specfem-82.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-82.png> <a0,fr82>
+<spec/specfem-83.png, id=364, 770.88pt x 338.26375pt>
+File: spec/specfem-83.png Graphic file (type png)
+<use spec/specfem-83.png>
+Package pdftex.def Info: spec/specfem-83.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-83.png> <a0,fr83>
+<spec/specfem-84.png, id=368, 770.88pt x 338.26375pt>
+File: spec/specfem-84.png Graphic file (type png)
+<use spec/specfem-84.png>
+Package pdftex.def Info: spec/specfem-84.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-84.png> <a0,fr84>
+<spec/specfem-85.png, id=372, 770.88pt x 338.26375pt>
+File: spec/specfem-85.png Graphic file (type png)
+<use spec/specfem-85.png>
+Package pdftex.def Info: spec/specfem-85.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-85.png> <a0,fr85>
+<spec/specfem-86.png, id=376, 770.88pt x 338.26375pt>
+File: spec/specfem-86.png Graphic file (type png)
+<use spec/specfem-86.png>
+Package pdftex.def Info: spec/specfem-86.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-86.png> <a0,fr86>
+<spec/specfem-87.png, id=380, 770.88pt x 338.26375pt>
+File: spec/specfem-87.png Graphic file (type png)
+<use spec/specfem-87.png>
+Package pdftex.def Info: spec/specfem-87.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-87.png> <a0,fr87>
+<spec/specfem-88.png, id=384, 770.88pt x 338.26375pt>
+File: spec/specfem-88.png Graphic file (type png)
+<use spec/specfem-88.png>
+Package pdftex.def Info: spec/specfem-88.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-88.png> <a0,fr88>
+<spec/specfem-89.png, id=388, 770.88pt x 338.26375pt>
+File: spec/specfem-89.png Graphic file (type png)
+<use spec/specfem-89.png>
+Package pdftex.def Info: spec/specfem-89.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-89.png> <a0,fr89>
+<spec/specfem-90.png, id=392, 770.88pt x 338.26375pt>
+File: spec/specfem-90.png Graphic file (type png)
+<use spec/specfem-90.png>
+Package pdftex.def Info: spec/specfem-90.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-90.png> <a0,fr90>
+<spec/specfem-91.png, id=396, 770.88pt x 338.26375pt>
+File: spec/specfem-91.png Graphic file (type png)
+<use spec/specfem-91.png>
+Package pdftex.def Info: spec/specfem-91.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-91.png> <a0,fr91>
+<spec/specfem-92.png, id=400, 770.88pt x 338.26375pt>
+File: spec/specfem-92.png Graphic file (type png)
+<use spec/specfem-92.png>
+Package pdftex.def Info: spec/specfem-92.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-92.png> <a0,fr92>
+<spec/specfem-93.png, id=404, 770.88pt x 338.26375pt>
+File: spec/specfem-93.png Graphic file (type png)
+<use spec/specfem-93.png>
+Package pdftex.def Info: spec/specfem-93.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-93.png>
+<a0,fr93>
+<spec/specfem-94.png, id=408, 770.88pt x 338.26375pt>
+File: spec/specfem-94.png Graphic file (type png)
+<use spec/specfem-94.png>
+Package pdftex.def Info: spec/specfem-94.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-94.png> <a0,fr94>
+<spec/specfem-95.png, id=412, 770.88pt x 338.26375pt>
+File: spec/specfem-95.png Graphic file (type png)
+<use spec/specfem-95.png>
+Package pdftex.def Info: spec/specfem-95.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-95.png> <a0,fr95>
+<spec/specfem-96.png, id=416, 770.88pt x 338.26375pt>
+File: spec/specfem-96.png Graphic file (type png)
+<use spec/specfem-96.png>
+Package pdftex.def Info: spec/specfem-96.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-96.png> <a0,fr96>
+<spec/specfem-97.png, id=420, 770.88pt x 338.26375pt>
+File: spec/specfem-97.png Graphic file (type png)
+<use spec/specfem-97.png>
+Package pdftex.def Info: spec/specfem-97.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-97.png> <a0,fr97>
+<spec/specfem-98.png, id=424, 770.88pt x 338.26375pt>
+File: spec/specfem-98.png Graphic file (type png)
+<use spec/specfem-98.png>
+Package pdftex.def Info: spec/specfem-98.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-98.png> <a0,fr98>
+<spec/specfem-99.png, id=428, 770.88pt x 338.26375pt>
+File: spec/specfem-99.png Graphic file (type png)
+<use spec/specfem-99.png>
+Package pdftex.def Info: spec/specfem-99.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-99.png> <a0,fr99>
+<spec/specfem-100.png, id=432, 770.88pt x 338.26375pt>
+File: spec/specfem-100.png Graphic file (type png)
+<use spec/specfem-100.png>
+Package pdftex.def Info: spec/specfem-100.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-100.png> <a0,fr100>
+<spec/specfem-101.png, id=436, 770.88pt x 338.26375pt>
+File: spec/specfem-101.png Graphic file (type png)
+<use spec/specfem-101.png>
+Package pdftex.def Info: spec/specfem-101.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-101.png> <a0,fr101>
+<spec/specfem-102.png, id=440, 770.88pt x 338.26375pt>
+File: spec/specfem-102.png Graphic file (type png)
+<use spec/specfem-102.png>
+Package pdftex.def Info: spec/specfem-102.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-102.png>
+<a0,fr102>
+<spec/specfem-103.png, id=444, 770.88pt x 338.26375pt>
+File: spec/specfem-103.png Graphic file (type png)
+<use spec/specfem-103.png>
+Package pdftex.def Info: spec/specfem-103.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-103.png> <a0,fr103>
+<spec/specfem-104.png, id=448, 770.88pt x 338.26375pt>
+File: spec/specfem-104.png Graphic file (type png)
+<use spec/specfem-104.png>
+Package pdftex.def Info: spec/specfem-104.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-104.png>
+<a0,fr104>
+<spec/specfem-105.png, id=452, 770.88pt x 338.26375pt>
+File: spec/specfem-105.png Graphic file (type png)
+<use spec/specfem-105.png>
+Package pdftex.def Info: spec/specfem-105.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-105.png> <a0,fr105>
+<spec/specfem-106.png, id=456, 770.88pt x 338.26375pt>
+File: spec/specfem-106.png Graphic file (type png)
+<use spec/specfem-106.png>
+Package pdftex.def Info: spec/specfem-106.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-106.png>
+<a0,fr106>
+<spec/specfem-107.png, id=460, 770.88pt x 338.26375pt>
+File: spec/specfem-107.png Graphic file (type png)
+<use spec/specfem-107.png>
+Package pdftex.def Info: spec/specfem-107.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-107.png> <a0,fr107>
+<spec/specfem-108.png, id=464, 770.88pt x 338.26375pt>
+File: spec/specfem-108.png Graphic file (type png)
+<use spec/specfem-108.png>
+Package pdftex.def Info: spec/specfem-108.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-108.png>
+<a0,fr108>
+<spec/specfem-109.png, id=468, 770.88pt x 338.26375pt>
+File: spec/specfem-109.png Graphic file (type png)
+<use spec/specfem-109.png>
+Package pdftex.def Info: spec/specfem-109.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-109.png> <a0,fr109>
+<spec/specfem-110.png, id=472, 770.88pt x 338.26375pt>
+File: spec/specfem-110.png Graphic file (type png)
+<use spec/specfem-110.png>
+Package pdftex.def Info: spec/specfem-110.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-110.png>
+<a0,fr110>
+<spec/specfem-111.png, id=476, 770.88pt x 338.26375pt>
+File: spec/specfem-111.png Graphic file (type png)
+<use spec/specfem-111.png>
+Package pdftex.def Info: spec/specfem-111.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-111.png> <a0,fr111>
+<spec/specfem-112.png, id=480, 770.88pt x 338.26375pt>
+File: spec/specfem-112.png Graphic file (type png)
+<use spec/specfem-112.png>
+Package pdftex.def Info: spec/specfem-112.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-112.png>
+<a0,fr112>
+<spec/specfem-113.png, id=484, 770.88pt x 338.26375pt>
+File: spec/specfem-113.png Graphic file (type png)
+<use spec/specfem-113.png>
+Package pdftex.def Info: spec/specfem-113.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-113.png> <a0,fr113>
+<spec/specfem-114.png, id=488, 770.88pt x 338.26375pt>
+File: spec/specfem-114.png Graphic file (type png)
+<use spec/specfem-114.png>
+Package pdftex.def Info: spec/specfem-114.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-114.png>
+<a0,fr114>
+<spec/specfem-115.png, id=492, 770.88pt x 338.26375pt>
+File: spec/specfem-115.png Graphic file (type png)
+<use spec/specfem-115.png>
+Package pdftex.def Info: spec/specfem-115.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-115.png> <a0,fr115>
+<spec/specfem-116.png, id=496, 770.88pt x 338.26375pt>
+File: spec/specfem-116.png Graphic file (type png)
+<use spec/specfem-116.png>
+Package pdftex.def Info: spec/specfem-116.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-116.png>
+<a0,fr116>
+<spec/specfem-117.png, id=500, 770.88pt x 338.26375pt>
+File: spec/specfem-117.png Graphic file (type png)
+<use spec/specfem-117.png>
+Package pdftex.def Info: spec/specfem-117.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-117.png> <a0,fr117>
+<spec/specfem-118.png, id=504, 770.88pt x 338.26375pt>
+File: spec/specfem-118.png Graphic file (type png)
+<use spec/specfem-118.png>
+Package pdftex.def Info: spec/specfem-118.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-118.png>
+<a0,fr118>
+<spec/specfem-119.png, id=508, 770.88pt x 338.26375pt>
+File: spec/specfem-119.png Graphic file (type png)
+<use spec/specfem-119.png>
+Package pdftex.def Info: spec/specfem-119.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-119.png> <a0,fr119>
+<spec/specfem-120.png, id=512, 770.88pt x 338.26375pt>
+File: spec/specfem-120.png Graphic file (type png)
+<use spec/specfem-120.png>
+Package pdftex.def Info: spec/specfem-120.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-120.png>
+<a0,fr120>
+<spec/specfem-121.png, id=516, 770.88pt x 338.26375pt>
+File: spec/specfem-121.png Graphic file (type png)
+<use spec/specfem-121.png>
+Package pdftex.def Info: spec/specfem-121.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-121.png> <a0,fr121>
+<spec/specfem-122.png, id=520, 770.88pt x 338.26375pt>
+File: spec/specfem-122.png Graphic file (type png)
+<use spec/specfem-122.png>
+Package pdftex.def Info: spec/specfem-122.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-122.png>
+<a0,fr122>
+<spec/specfem-123.png, id=524, 770.88pt x 338.26375pt>
+File: spec/specfem-123.png Graphic file (type png)
+<use spec/specfem-123.png>
+Package pdftex.def Info: spec/specfem-123.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-123.png> <a0,fr123>
+<spec/specfem-124.png, id=528, 770.88pt x 338.26375pt>
+File: spec/specfem-124.png Graphic file (type png)
+<use spec/specfem-124.png>
+Package pdftex.def Info: spec/specfem-124.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-124.png>
+<a0,fr124>
+<spec/specfem-125.png, id=532, 770.88pt x 338.26375pt>
+File: spec/specfem-125.png Graphic file (type png)
+<use spec/specfem-125.png>
+Package pdftex.def Info: spec/specfem-125.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-125.png> <a0,fr125>
+<spec/specfem-126.png, id=536, 770.88pt x 338.26375pt>
+File: spec/specfem-126.png Graphic file (type png)
+<use spec/specfem-126.png>
+Package pdftex.def Info: spec/specfem-126.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-126.png>
+<a0,fr126>
+<spec/specfem-127.png, id=540, 770.88pt x 338.26375pt>
+File: spec/specfem-127.png Graphic file (type png)
+<use spec/specfem-127.png>
+Package pdftex.def Info: spec/specfem-127.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-127.png> <a0,fr127>
+<spec/specfem-128.png, id=544, 770.88pt x 338.26375pt>
+File: spec/specfem-128.png Graphic file (type png)
+<use spec/specfem-128.png>
+Package pdftex.def Info: spec/specfem-128.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-128.png>
+<a0,fr128>
+<spec/specfem-129.png, id=548, 770.88pt x 338.26375pt>
+File: spec/specfem-129.png Graphic file (type png)
+<use spec/specfem-129.png>
+Package pdftex.def Info: spec/specfem-129.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-129.png> <a0,fr129>
+<spec/specfem-130.png, id=552, 770.88pt x 338.26375pt>
+File: spec/specfem-130.png Graphic file (type png)
+<use spec/specfem-130.png>
+Package pdftex.def Info: spec/specfem-130.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-130.png>
+<a0,fr130>
+<spec/specfem-131.png, id=556, 770.88pt x 338.26375pt>
+File: spec/specfem-131.png Graphic file (type png)
+<use spec/specfem-131.png>
+Package pdftex.def Info: spec/specfem-131.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-131.png> <a0,fr131>
+<spec/specfem-132.png, id=560, 770.88pt x 338.26375pt>
+File: spec/specfem-132.png Graphic file (type png)
+<use spec/specfem-132.png>
+Package pdftex.def Info: spec/specfem-132.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-132.png>
+<a0,fr132>
+<spec/specfem-133.png, id=564, 770.88pt x 338.26375pt>
+File: spec/specfem-133.png Graphic file (type png)
+<use spec/specfem-133.png>
+Package pdftex.def Info: spec/specfem-133.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-133.png> <a0,fr133>
+<spec/specfem-134.png, id=568, 770.88pt x 338.26375pt>
+File: spec/specfem-134.png Graphic file (type png)
+<use spec/specfem-134.png>
+Package pdftex.def Info: spec/specfem-134.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-134.png>
+<a0,fr134>
+<spec/specfem-135.png, id=572, 770.88pt x 338.26375pt>
+File: spec/specfem-135.png Graphic file (type png)
+<use spec/specfem-135.png>
+Package pdftex.def Info: spec/specfem-135.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-135.png> <a0,fr135>
+<spec/specfem-136.png, id=576, 770.88pt x 338.26375pt>
+File: spec/specfem-136.png Graphic file (type png)
+<use spec/specfem-136.png>
+Package pdftex.def Info: spec/specfem-136.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-136.png>
+<a0,fr136>
+<spec/specfem-137.png, id=580, 770.88pt x 338.26375pt>
+File: spec/specfem-137.png Graphic file (type png)
+<use spec/specfem-137.png>
+Package pdftex.def Info: spec/specfem-137.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-137.png> <a0,fr137>
+<spec/specfem-138.png, id=584, 770.88pt x 338.26375pt>
+File: spec/specfem-138.png Graphic file (type png)
+<use spec/specfem-138.png>
+Package pdftex.def Info: spec/specfem-138.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-138.png>
+<a0,fr138>
+<spec/specfem-139.png, id=588, 770.88pt x 338.26375pt>
+File: spec/specfem-139.png Graphic file (type png)
+<use spec/specfem-139.png>
+Package pdftex.def Info: spec/specfem-139.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-139.png> <a0,fr139>
+<spec/specfem-140.png, id=592, 770.88pt x 338.26375pt>
+File: spec/specfem-140.png Graphic file (type png)
+<use spec/specfem-140.png>
+Package pdftex.def Info: spec/specfem-140.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-140.png>
+<a0,fr140>
+<spec/specfem-141.png, id=596, 770.88pt x 338.26375pt>
+File: spec/specfem-141.png Graphic file (type png)
+<use spec/specfem-141.png>
+Package pdftex.def Info: spec/specfem-141.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-141.png> <a0,fr141>
+<spec/specfem-142.png, id=600, 770.88pt x 338.26375pt>
+File: spec/specfem-142.png Graphic file (type png)
+<use spec/specfem-142.png>
+Package pdftex.def Info: spec/specfem-142.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-142.png>
+<a0,fr142>
+<spec/specfem-143.png, id=604, 770.88pt x 338.26375pt>
+File: spec/specfem-143.png Graphic file (type png)
+<use spec/specfem-143.png>
+Package pdftex.def Info: spec/specfem-143.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-143.png> <a0,fr143>
+<spec/specfem-144.png, id=608, 770.88pt x 338.26375pt>
+File: spec/specfem-144.png Graphic file (type png)
+<use spec/specfem-144.png>
+Package pdftex.def Info: spec/specfem-144.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-144.png>
+<a0,fr144>
+<spec/specfem-145.png, id=612, 770.88pt x 338.26375pt>
+File: spec/specfem-145.png Graphic file (type png)
+<use spec/specfem-145.png>
+Package pdftex.def Info: spec/specfem-145.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-145.png> <a0,fr145>
+<spec/specfem-146.png, id=616, 770.88pt x 338.26375pt>
+File: spec/specfem-146.png Graphic file (type png)
+<use spec/specfem-146.png>
+Package pdftex.def Info: spec/specfem-146.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-146.png>
+<a0,fr146>
+<spec/specfem-147.png, id=620, 770.88pt x 338.26375pt>
+File: spec/specfem-147.png Graphic file (type png)
+<use spec/specfem-147.png>
+Package pdftex.def Info: spec/specfem-147.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-147.png> <a0,fr147>
+<spec/specfem-148.png, id=624, 770.88pt x 338.26375pt>
+File: spec/specfem-148.png Graphic file (type png)
+<use spec/specfem-148.png>
+Package pdftex.def Info: spec/specfem-148.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-148.png>
+<a0,fr148>
+<spec/specfem-149.png, id=628, 770.88pt x 338.26375pt>
+File: spec/specfem-149.png Graphic file (type png)
+<use spec/specfem-149.png>
+Package pdftex.def Info: spec/specfem-149.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-149.png> <a0,fr149>
+<spec/specfem-150.png, id=632, 770.88pt x 338.26375pt>
+File: spec/specfem-150.png Graphic file (type png)
+<use spec/specfem-150.png>
+Package pdftex.def Info: spec/specfem-150.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-150.png>
+<a0,fr150>
+<spec/specfem-151.png, id=636, 770.88pt x 338.26375pt>
+File: spec/specfem-151.png Graphic file (type png)
+<use spec/specfem-151.png>
+Package pdftex.def Info: spec/specfem-151.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-151.png> <a0,fr151>
+<spec/specfem-152.png, id=640, 770.88pt x 338.26375pt>
+File: spec/specfem-152.png Graphic file (type png)
+<use spec/specfem-152.png>
+Package pdftex.def Info: spec/specfem-152.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-152.png>
+<a0,fr152>
+<spec/specfem-153.png, id=644, 770.88pt x 338.26375pt>
+File: spec/specfem-153.png Graphic file (type png)
+<use spec/specfem-153.png>
+Package pdftex.def Info: spec/specfem-153.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-153.png> <a0,fr153>
+<spec/specfem-154.png, id=648, 770.88pt x 338.26375pt>
+File: spec/specfem-154.png Graphic file (type png)
+<use spec/specfem-154.png>
+Package pdftex.def Info: spec/specfem-154.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-154.png>
+<a0,fr154>
+<spec/specfem-155.png, id=652, 770.88pt x 338.26375pt>
+File: spec/specfem-155.png Graphic file (type png)
+<use spec/specfem-155.png>
+Package pdftex.def Info: spec/specfem-155.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-155.png> <a0,fr155>
+<spec/specfem-156.png, id=656, 770.88pt x 338.26375pt>
+File: spec/specfem-156.png Graphic file (type png)
+<use spec/specfem-156.png>
+Package pdftex.def Info: spec/specfem-156.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-156.png>
+<a0,fr156>
+<spec/specfem-157.png, id=660, 770.88pt x 338.26375pt>
+File: spec/specfem-157.png Graphic file (type png)
+<use spec/specfem-157.png>
+Package pdftex.def Info: spec/specfem-157.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-157.png> <a0,fr157>
+<spec/specfem-158.png, id=664, 770.88pt x 338.26375pt>
+File: spec/specfem-158.png Graphic file (type png)
+<use spec/specfem-158.png>
+Package pdftex.def Info: spec/specfem-158.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-158.png>
+<a0,fr158>
+<spec/specfem-159.png, id=668, 770.88pt x 338.26375pt>
+File: spec/specfem-159.png Graphic file (type png)
+<use spec/specfem-159.png>
+Package pdftex.def Info: spec/specfem-159.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-159.png> <a0,fr159>
+<spec/specfem-160.png, id=672, 770.88pt x 338.26375pt>
+File: spec/specfem-160.png Graphic file (type png)
+<use spec/specfem-160.png>
+Package pdftex.def Info: spec/specfem-160.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-160.png>
+<a0,fr160>
+<spec/specfem-161.png, id=676, 770.88pt x 338.26375pt>
+File: spec/specfem-161.png Graphic file (type png)
+<use spec/specfem-161.png>
+Package pdftex.def Info: spec/specfem-161.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-161.png> <a0,fr161>
+<spec/specfem-162.png, id=680, 770.88pt x 338.26375pt>
+File: spec/specfem-162.png Graphic file (type png)
+<use spec/specfem-162.png>
+Package pdftex.def Info: spec/specfem-162.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-162.png>
+<a0,fr162>
+<spec/specfem-163.png, id=684, 770.88pt x 338.26375pt>
+File: spec/specfem-163.png Graphic file (type png)
+<use spec/specfem-163.png>
+Package pdftex.def Info: spec/specfem-163.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-163.png> <a0,fr163>
+<spec/specfem-164.png, id=688, 770.88pt x 338.26375pt>
+File: spec/specfem-164.png Graphic file (type png)
+<use spec/specfem-164.png>
+Package pdftex.def Info: spec/specfem-164.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-164.png>
+<a0,fr164>
+<spec/specfem-165.png, id=692, 770.88pt x 338.26375pt>
+File: spec/specfem-165.png Graphic file (type png)
+<use spec/specfem-165.png>
+Package pdftex.def Info: spec/specfem-165.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-165.png> <a0,fr165>
+<spec/specfem-166.png, id=696, 770.88pt x 338.26375pt>
+File: spec/specfem-166.png Graphic file (type png)
+<use spec/specfem-166.png>
+Package pdftex.def Info: spec/specfem-166.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-166.png>
+<a0,fr166>
+<spec/specfem-167.png, id=700, 770.88pt x 338.26375pt>
+File: spec/specfem-167.png Graphic file (type png)
+<use spec/specfem-167.png>
+Package pdftex.def Info: spec/specfem-167.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-167.png> <a0,fr167>
+<spec/specfem-168.png, id=704, 770.88pt x 338.26375pt>
+File: spec/specfem-168.png Graphic file (type png)
+<use spec/specfem-168.png>
+Package pdftex.def Info: spec/specfem-168.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-168.png>
+<a0,fr168>
+<spec/specfem-169.png, id=708, 770.88pt x 338.26375pt>
+File: spec/specfem-169.png Graphic file (type png)
+<use spec/specfem-169.png>
+Package pdftex.def Info: spec/specfem-169.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-169.png> <a0,fr169>
+<spec/specfem-170.png, id=712, 770.88pt x 338.26375pt>
+File: spec/specfem-170.png Graphic file (type png)
+<use spec/specfem-170.png>
+Package pdftex.def Info: spec/specfem-170.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-170.png>
+<a0,fr170>
+<spec/specfem-171.png, id=716, 770.88pt x 338.26375pt>
+File: spec/specfem-171.png Graphic file (type png)
+<use spec/specfem-171.png>
+Package pdftex.def Info: spec/specfem-171.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-171.png> <a0,fr171>
+<spec/specfem-172.png, id=720, 770.88pt x 338.26375pt>
+File: spec/specfem-172.png Graphic file (type png)
+<use spec/specfem-172.png>
+Package pdftex.def Info: spec/specfem-172.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-172.png>
+<a0,fr172>
+<spec/specfem-173.png, id=724, 770.88pt x 338.26375pt>
+File: spec/specfem-173.png Graphic file (type png)
+<use spec/specfem-173.png>
+Package pdftex.def Info: spec/specfem-173.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-173.png> <a0,fr173>
+<spec/specfem-174.png, id=728, 770.88pt x 338.26375pt>
+File: spec/specfem-174.png Graphic file (type png)
+<use spec/specfem-174.png>
+Package pdftex.def Info: spec/specfem-174.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-174.png>
+<a0,fr174>
+<spec/specfem-175.png, id=732, 770.88pt x 338.26375pt>
+File: spec/specfem-175.png Graphic file (type png)
+<use spec/specfem-175.png>
+Package pdftex.def Info: spec/specfem-175.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-175.png> <a0,fr175>
+<spec/specfem-176.png, id=736, 770.88pt x 338.26375pt>
+File: spec/specfem-176.png Graphic file (type png)
+<use spec/specfem-176.png>
+Package pdftex.def Info: spec/specfem-176.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-176.png>
+<a0,fr176>
+<spec/specfem-177.png, id=740, 770.88pt x 338.26375pt>
+File: spec/specfem-177.png Graphic file (type png)
+<use spec/specfem-177.png>
+Package pdftex.def Info: spec/specfem-177.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-177.png> <a0,fr177>
+<spec/specfem-178.png, id=744, 770.88pt x 338.26375pt>
+File: spec/specfem-178.png Graphic file (type png)
+<use spec/specfem-178.png>
+Package pdftex.def Info: spec/specfem-178.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-178.png>
+<a0,fr178>
+<spec/specfem-179.png, id=748, 770.88pt x 338.26375pt>
+File: spec/specfem-179.png Graphic file (type png)
+<use spec/specfem-179.png>
+Package pdftex.def Info: spec/specfem-179.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-179.png> <a0,fr179>
+<spec/specfem-180.png, id=752, 770.88pt x 338.26375pt>
+File: spec/specfem-180.png Graphic file (type png)
+<use spec/specfem-180.png>
+Package pdftex.def Info: spec/specfem-180.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-180.png>
+<a0,fr180>
+<spec/specfem-181.png, id=756, 770.88pt x 338.26375pt>
+File: spec/specfem-181.png Graphic file (type png)
+<use spec/specfem-181.png>
+Package pdftex.def Info: spec/specfem-181.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-181.png> <a0,fr181>
+<spec/specfem-182.png, id=760, 770.88pt x 338.26375pt>
+File: spec/specfem-182.png Graphic file (type png)
+<use spec/specfem-182.png>
+Package pdftex.def Info: spec/specfem-182.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-182.png>
+<a0,fr182>
+<spec/specfem-183.png, id=764, 770.88pt x 338.26375pt>
+File: spec/specfem-183.png Graphic file (type png)
+<use spec/specfem-183.png>
+Package pdftex.def Info: spec/specfem-183.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-183.png> <a0,fr183>
+<spec/specfem-184.png, id=768, 770.88pt x 338.26375pt>
+File: spec/specfem-184.png Graphic file (type png)
+<use spec/specfem-184.png>
+Package pdftex.def Info: spec/specfem-184.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-184.png>
+<a0,fr184>
+<spec/specfem-185.png, id=772, 770.88pt x 338.26375pt>
+File: spec/specfem-185.png Graphic file (type png)
+<use spec/specfem-185.png>
+Package pdftex.def Info: spec/specfem-185.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-185.png> <a0,fr185>
+<spec/specfem-186.png, id=776, 770.88pt x 338.26375pt>
+File: spec/specfem-186.png Graphic file (type png)
+<use spec/specfem-186.png>
+Package pdftex.def Info: spec/specfem-186.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-186.png>
+<a0,fr186>
+<spec/specfem-187.png, id=780, 770.88pt x 338.26375pt>
+File: spec/specfem-187.png Graphic file (type png)
+<use spec/specfem-187.png>
+Package pdftex.def Info: spec/specfem-187.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-187.png> <a0,fr187>
+<spec/specfem-188.png, id=784, 770.88pt x 338.26375pt>
+File: spec/specfem-188.png Graphic file (type png)
+<use spec/specfem-188.png>
+Package pdftex.def Info: spec/specfem-188.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-188.png>
+<a0,fr188>
+<spec/specfem-189.png, id=788, 770.88pt x 338.26375pt>
+File: spec/specfem-189.png Graphic file (type png)
+<use spec/specfem-189.png>
+Package pdftex.def Info: spec/specfem-189.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-189.png> <a0,fr189>
+<spec/specfem-190.png, id=792, 770.88pt x 338.26375pt>
+File: spec/specfem-190.png Graphic file (type png)
+<use spec/specfem-190.png>
+Package pdftex.def Info: spec/specfem-190.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-190.png>
+<a0,fr190>
+<spec/specfem-191.png, id=796, 770.88pt x 338.26375pt>
+File: spec/specfem-191.png Graphic file (type png)
+<use spec/specfem-191.png>
+Package pdftex.def Info: spec/specfem-191.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-191.png> <a0,fr191>
+<spec/specfem-192.png, id=800, 770.88pt x 338.26375pt>
+File: spec/specfem-192.png Graphic file (type png)
+<use spec/specfem-192.png>
+Package pdftex.def Info: spec/specfem-192.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-192.png>
+<a0,fr192>
+<spec/specfem-193.png, id=804, 770.88pt x 338.26375pt>
+File: spec/specfem-193.png Graphic file (type png)
+<use spec/specfem-193.png>
+Package pdftex.def Info: spec/specfem-193.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-193.png> <a0,fr193>
+<spec/specfem-194.png, id=808, 770.88pt x 338.26375pt>
+File: spec/specfem-194.png Graphic file (type png)
+<use spec/specfem-194.png>
+Package pdftex.def Info: spec/specfem-194.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-194.png>
+<a0,fr194>
+<spec/specfem-195.png, id=812, 770.88pt x 338.26375pt>
+File: spec/specfem-195.png Graphic file (type png)
+<use spec/specfem-195.png>
+Package pdftex.def Info: spec/specfem-195.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-195.png> <a0,fr195>
+<spec/specfem-196.png, id=816, 770.88pt x 338.26375pt>
+File: spec/specfem-196.png Graphic file (type png)
+<use spec/specfem-196.png>
+Package pdftex.def Info: spec/specfem-196.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-196.png>
+<a0,fr196>
+<spec/specfem-197.png, id=820, 770.88pt x 338.26375pt>
+File: spec/specfem-197.png Graphic file (type png)
+<use spec/specfem-197.png>
+Package pdftex.def Info: spec/specfem-197.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-197.png> <a0,fr197>
+<spec/specfem-198.png, id=824, 770.88pt x 338.26375pt>
+File: spec/specfem-198.png Graphic file (type png)
+<use spec/specfem-198.png>
+Package pdftex.def Info: spec/specfem-198.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-198.png>
+<a0,fr198>
+<spec/specfem-199.png, id=828, 770.88pt x 338.26375pt>
+File: spec/specfem-199.png Graphic file (type png)
+<use spec/specfem-199.png>
+Package pdftex.def Info: spec/specfem-199.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-199.png> <a0,fr199>
+<spec/specfem-200.png, id=832, 770.88pt x 338.26375pt>
+File: spec/specfem-200.png Graphic file (type png)
+<use spec/specfem-200.png>
+Package pdftex.def Info: spec/specfem-200.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-200.png>
+<a0,fr200>
+<spec/specfem-201.png, id=836, 770.88pt x 338.26375pt>
+File: spec/specfem-201.png Graphic file (type png)
+<use spec/specfem-201.png>
+Package pdftex.def Info: spec/specfem-201.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-201.png> <a0,fr201>
+<spec/specfem-202.png, id=840, 770.88pt x 338.26375pt>
+File: spec/specfem-202.png Graphic file (type png)
+<use spec/specfem-202.png>
+Package pdftex.def Info: spec/specfem-202.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-202.png>
+<a0,fr202>
+<spec/specfem-203.png, id=844, 770.88pt x 338.26375pt>
+File: spec/specfem-203.png Graphic file (type png)
+<use spec/specfem-203.png>
+Package pdftex.def Info: spec/specfem-203.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-203.png> <a0,fr203>
+<spec/specfem-204.png, id=848, 770.88pt x 338.26375pt>
+File: spec/specfem-204.png Graphic file (type png)
+<use spec/specfem-204.png>
+Package pdftex.def Info: spec/specfem-204.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-204.png>
+<a0,fr204>
+<spec/specfem-205.png, id=852, 770.88pt x 338.26375pt>
+File: spec/specfem-205.png Graphic file (type png)
+<use spec/specfem-205.png>
+Package pdftex.def Info: spec/specfem-205.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-205.png> <a0,fr205>
+<spec/specfem-206.png, id=856, 770.88pt x 338.26375pt>
+File: spec/specfem-206.png Graphic file (type png)
+<use spec/specfem-206.png>
+Package pdftex.def Info: spec/specfem-206.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-206.png>
+<a0,fr206>
+<spec/specfem-207.png, id=860, 770.88pt x 338.26375pt>
+File: spec/specfem-207.png Graphic file (type png)
+<use spec/specfem-207.png>
+Package pdftex.def Info: spec/specfem-207.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-207.png> <a0,fr207>
+<spec/specfem-208.png, id=864, 770.88pt x 338.26375pt>
+File: spec/specfem-208.png Graphic file (type png)
+<use spec/specfem-208.png>
+Package pdftex.def Info: spec/specfem-208.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-208.png>
+<a0,fr208>
+<spec/specfem-209.png, id=868, 770.88pt x 338.26375pt>
+File: spec/specfem-209.png Graphic file (type png)
+<use spec/specfem-209.png>
+Package pdftex.def Info: spec/specfem-209.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-209.png> <a0,fr209>
+<spec/specfem-210.png, id=872, 770.88pt x 338.26375pt>
+File: spec/specfem-210.png Graphic file (type png)
+<use spec/specfem-210.png>
+Package pdftex.def Info: spec/specfem-210.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-210.png>
+<a0,fr210>
+<spec/specfem-211.png, id=876, 770.88pt x 338.26375pt>
+File: spec/specfem-211.png Graphic file (type png)
+<use spec/specfem-211.png>
+Package pdftex.def Info: spec/specfem-211.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-211.png> <a0,fr211>
+<spec/specfem-212.png, id=880, 770.88pt x 338.26375pt>
+File: spec/specfem-212.png Graphic file (type png)
+<use spec/specfem-212.png>
+Package pdftex.def Info: spec/specfem-212.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-212.png>
+<a0,fr212>
+<spec/specfem-213.png, id=884, 770.88pt x 338.26375pt>
+File: spec/specfem-213.png Graphic file (type png)
+<use spec/specfem-213.png>
+Package pdftex.def Info: spec/specfem-213.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-213.png> <a0,fr213>
+<spec/specfem-214.png, id=888, 770.88pt x 338.26375pt>
+File: spec/specfem-214.png Graphic file (type png)
+<use spec/specfem-214.png>
+Package pdftex.def Info: spec/specfem-214.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-214.png>
+<a0,fr214>
+<spec/specfem-215.png, id=892, 770.88pt x 338.26375pt>
+File: spec/specfem-215.png Graphic file (type png)
+<use spec/specfem-215.png>
+Package pdftex.def Info: spec/specfem-215.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-215.png> <a0,fr215>
+<spec/specfem-216.png, id=896, 770.88pt x 338.26375pt>
+File: spec/specfem-216.png Graphic file (type png)
+<use spec/specfem-216.png>
+Package pdftex.def Info: spec/specfem-216.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-216.png>
+<a0,fr216>
+<spec/specfem-217.png, id=900, 770.88pt x 338.26375pt>
+File: spec/specfem-217.png Graphic file (type png)
+<use spec/specfem-217.png>
+Package pdftex.def Info: spec/specfem-217.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-217.png> <a0,fr217>
+<spec/specfem-218.png, id=904, 770.88pt x 338.26375pt>
+File: spec/specfem-218.png Graphic file (type png)
+<use spec/specfem-218.png>
+Package pdftex.def Info: spec/specfem-218.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-218.png>
+<a0,fr218>
+<spec/specfem-219.png, id=908, 770.88pt x 338.26375pt>
+File: spec/specfem-219.png Graphic file (type png)
+<use spec/specfem-219.png>
+Package pdftex.def Info: spec/specfem-219.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-219.png> <a0,fr219>
+<spec/specfem-220.png, id=912, 770.88pt x 338.26375pt>
+File: spec/specfem-220.png Graphic file (type png)
+<use spec/specfem-220.png>
+Package pdftex.def Info: spec/specfem-220.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-220.png>
+<a0,fr220>
+<spec/specfem-221.png, id=916, 770.88pt x 338.26375pt>
+File: spec/specfem-221.png Graphic file (type png)
+<use spec/specfem-221.png>
+Package pdftex.def Info: spec/specfem-221.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-221.png> <a0,fr221>
+<spec/specfem-222.png, id=920, 770.88pt x 338.26375pt>
+File: spec/specfem-222.png Graphic file (type png)
+<use spec/specfem-222.png>
+Package pdftex.def Info: spec/specfem-222.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-222.png>
+<a0,fr222>
+<spec/specfem-223.png, id=924, 770.88pt x 338.26375pt>
+File: spec/specfem-223.png Graphic file (type png)
+<use spec/specfem-223.png>
+Package pdftex.def Info: spec/specfem-223.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-223.png> <a0,fr223>
+<spec/specfem-224.png, id=928, 770.88pt x 338.26375pt>
+File: spec/specfem-224.png Graphic file (type png)
+<use spec/specfem-224.png>
+Package pdftex.def Info: spec/specfem-224.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-224.png>
+<a0,fr224>
+<spec/specfem-225.png, id=932, 770.88pt x 338.26375pt>
+File: spec/specfem-225.png Graphic file (type png)
+<use spec/specfem-225.png>
+Package pdftex.def Info: spec/specfem-225.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-225.png> <a0,fr225>
+<spec/specfem-226.png, id=936, 770.88pt x 338.26375pt>
+File: spec/specfem-226.png Graphic file (type png)
+<use spec/specfem-226.png>
+Package pdftex.def Info: spec/specfem-226.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-226.png>
+<a0,fr226>
+<spec/specfem-227.png, id=940, 770.88pt x 338.26375pt>
+File: spec/specfem-227.png Graphic file (type png)
+<use spec/specfem-227.png>
+Package pdftex.def Info: spec/specfem-227.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-227.png> <a0,fr227>
+<spec/specfem-228.png, id=944, 770.88pt x 338.26375pt>
+File: spec/specfem-228.png Graphic file (type png)
+<use spec/specfem-228.png>
+Package pdftex.def Info: spec/specfem-228.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-228.png>
+<a0,fr228>
+<spec/specfem-229.png, id=948, 770.88pt x 338.26375pt>
+File: spec/specfem-229.png Graphic file (type png)
+<use spec/specfem-229.png>
+Package pdftex.def Info: spec/specfem-229.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-229.png> <a0,fr229>
+<spec/specfem-230.png, id=952, 770.88pt x 338.26375pt>
+File: spec/specfem-230.png Graphic file (type png)
+<use spec/specfem-230.png>
+Package pdftex.def Info: spec/specfem-230.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-230.png>
+<a0,fr230>
+<spec/specfem-231.png, id=956, 770.88pt x 338.26375pt>
+File: spec/specfem-231.png Graphic file (type png)
+<use spec/specfem-231.png>
+Package pdftex.def Info: spec/specfem-231.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-231.png> <a0,fr231>
+<spec/specfem-232.png, id=960, 770.88pt x 338.26375pt>
+File: spec/specfem-232.png Graphic file (type png)
+<use spec/specfem-232.png>
+Package pdftex.def Info: spec/specfem-232.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-232.png>
+<a0,fr232>
+<spec/specfem-233.png, id=964, 770.88pt x 338.26375pt>
+File: spec/specfem-233.png Graphic file (type png)
+<use spec/specfem-233.png>
+Package pdftex.def Info: spec/specfem-233.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-233.png> <a0,fr233>
+<spec/specfem-234.png, id=968, 770.88pt x 338.26375pt>
+File: spec/specfem-234.png Graphic file (type png)
+<use spec/specfem-234.png>
+Package pdftex.def Info: spec/specfem-234.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-234.png>
+<a0,fr234>
+<spec/specfem-235.png, id=972, 770.88pt x 338.26375pt>
+File: spec/specfem-235.png Graphic file (type png)
+<use spec/specfem-235.png>
+Package pdftex.def Info: spec/specfem-235.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-235.png> <a0,fr235>
+<spec/specfem-236.png, id=976, 770.88pt x 338.26375pt>
+File: spec/specfem-236.png Graphic file (type png)
+<use spec/specfem-236.png>
+Package pdftex.def Info: spec/specfem-236.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-236.png>
+<a0,fr236>
+<spec/specfem-237.png, id=980, 770.88pt x 338.26375pt>
+File: spec/specfem-237.png Graphic file (type png)
+<use spec/specfem-237.png>
+Package pdftex.def Info: spec/specfem-237.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-237.png> <a0,fr237>
+<spec/specfem-238.png, id=984, 770.88pt x 338.26375pt>
+File: spec/specfem-238.png Graphic file (type png)
+<use spec/specfem-238.png>
+Package pdftex.def Info: spec/specfem-238.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-238.png>
+<a0,fr238>
+<spec/specfem-239.png, id=988, 770.88pt x 338.26375pt>
+File: spec/specfem-239.png Graphic file (type png)
+<use spec/specfem-239.png>
+Package pdftex.def Info: spec/specfem-239.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-239.png> <a0,fr239>
+<spec/specfem-240.png, id=992, 770.88pt x 338.26375pt>
+File: spec/specfem-240.png Graphic file (type png)
+<use spec/specfem-240.png>
+Package pdftex.def Info: spec/specfem-240.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-240.png>
+<a0,fr240>
+<spec/specfem-241.png, id=996, 770.88pt x 338.26375pt>
+File: spec/specfem-241.png Graphic file (type png)
+<use spec/specfem-241.png>
+Package pdftex.def Info: spec/specfem-241.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-241.png> <a0,fr241>
+<spec/specfem-242.png, id=1000, 770.88pt x 338.26375pt>
+File: spec/specfem-242.png Graphic file (type png)
+<use spec/specfem-242.png>
+Package pdftex.def Info: spec/specfem-242.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-242.png>
+<a0,fr242>
+<spec/specfem-243.png, id=1004, 770.88pt x 338.26375pt>
+File: spec/specfem-243.png Graphic file (type png)
+<use spec/specfem-243.png>
+Package pdftex.def Info: spec/specfem-243.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-243.png> <a0,fr243>
+<spec/specfem-244.png, id=1008, 770.88pt x 338.26375pt>
+File: spec/specfem-244.png Graphic file (type png)
+<use spec/specfem-244.png>
+Package pdftex.def Info: spec/specfem-244.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-244.png>
+<a0,fr244>
+<spec/specfem-245.png, id=1012, 770.88pt x 338.26375pt>
+File: spec/specfem-245.png Graphic file (type png)
+<use spec/specfem-245.png>
+Package pdftex.def Info: spec/specfem-245.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-245.png> <a0,fr245>
+<spec/specfem-246.png, id=1016, 770.88pt x 338.26375pt>
+File: spec/specfem-246.png Graphic file (type png)
+<use spec/specfem-246.png>
+Package pdftex.def Info: spec/specfem-246.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-246.png>
+<a0,fr246>
+<spec/specfem-247.png, id=1020, 770.88pt x 338.26375pt>
+File: spec/specfem-247.png Graphic file (type png)
+<use spec/specfem-247.png>
+Package pdftex.def Info: spec/specfem-247.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-247.png> <a0,fr247>
+<spec/specfem-248.png, id=1024, 770.88pt x 338.26375pt>
+File: spec/specfem-248.png Graphic file (type png)
+<use spec/specfem-248.png>
+Package pdftex.def Info: spec/specfem-248.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-248.png>
+<a0,fr248>
+<spec/specfem-249.png, id=1028, 770.88pt x 338.26375pt>
+File: spec/specfem-249.png Graphic file (type png)
+<use spec/specfem-249.png>
+Package pdftex.def Info: spec/specfem-249.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-249.png> <a0,fr249>
+<spec/specfem-250.png, id=1032, 770.88pt x 338.26375pt>
+File: spec/specfem-250.png Graphic file (type png)
+<use spec/specfem-250.png>
+Package pdftex.def Info: spec/specfem-250.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-250.png>
+<a0,fr250>
+<spec/specfem-251.png, id=1036, 770.88pt x 338.26375pt>
+File: spec/specfem-251.png Graphic file (type png)
+<use spec/specfem-251.png>
+Package pdftex.def Info: spec/specfem-251.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-251.png> <a0,fr251>
+<spec/specfem-252.png, id=1040, 770.88pt x 338.26375pt>
+File: spec/specfem-252.png Graphic file (type png)
+<use spec/specfem-252.png>
+Package pdftex.def Info: spec/specfem-252.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-252.png>
+<a0,fr252>
+<spec/specfem-253.png, id=1044, 770.88pt x 338.26375pt>
+File: spec/specfem-253.png Graphic file (type png)
+<use spec/specfem-253.png>
+Package pdftex.def Info: spec/specfem-253.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-253.png> <a0,fr253>
+<spec/specfem-254.png, id=1048, 770.88pt x 338.26375pt>
+File: spec/specfem-254.png Graphic file (type png)
+<use spec/specfem-254.png>
+Package pdftex.def Info: spec/specfem-254.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-254.png>
+<a0,fr254>
+<spec/specfem-255.png, id=1052, 770.88pt x 338.26375pt>
+File: spec/specfem-255.png Graphic file (type png)
+<use spec/specfem-255.png>
+Package pdftex.def Info: spec/specfem-255.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-255.png> <a0,fr255>
+<spec/specfem-256.png, id=1056, 770.88pt x 338.26375pt>
+File: spec/specfem-256.png Graphic file (type png)
+<use spec/specfem-256.png>
+Package pdftex.def Info: spec/specfem-256.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-256.png>
+<a0,fr256>
+<spec/specfem-257.png, id=1060, 770.88pt x 338.26375pt>
+File: spec/specfem-257.png Graphic file (type png)
+<use spec/specfem-257.png>
+Package pdftex.def Info: spec/specfem-257.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-257.png> <a0,fr257>
+<spec/specfem-258.png, id=1064, 770.88pt x 338.26375pt>
+File: spec/specfem-258.png Graphic file (type png)
+<use spec/specfem-258.png>
+Package pdftex.def Info: spec/specfem-258.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-258.png>
+<a0,fr258>
+<spec/specfem-259.png, id=1068, 770.88pt x 338.26375pt>
+File: spec/specfem-259.png Graphic file (type png)
+<use spec/specfem-259.png>
+Package pdftex.def Info: spec/specfem-259.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-259.png> <a0,fr259>
+<spec/specfem-260.png, id=1072, 770.88pt x 338.26375pt>
+File: spec/specfem-260.png Graphic file (type png)
+<use spec/specfem-260.png>
+Package pdftex.def Info: spec/specfem-260.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-260.png>
+<a0,fr260>
+<spec/specfem-261.png, id=1076, 770.88pt x 338.26375pt>
+File: spec/specfem-261.png Graphic file (type png)
+<use spec/specfem-261.png>
+Package pdftex.def Info: spec/specfem-261.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-261.png> <a0,fr261>
+<spec/specfem-262.png, id=1080, 770.88pt x 338.26375pt>
+File: spec/specfem-262.png Graphic file (type png)
+<use spec/specfem-262.png>
+Package pdftex.def Info: spec/specfem-262.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-262.png>
+<a0,fr262>
+<spec/specfem-263.png, id=1084, 770.88pt x 338.26375pt>
+File: spec/specfem-263.png Graphic file (type png)
+<use spec/specfem-263.png>
+Package pdftex.def Info: spec/specfem-263.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-263.png> <a0,fr263>
+<spec/specfem-264.png, id=1088, 770.88pt x 338.26375pt>
+File: spec/specfem-264.png Graphic file (type png)
+<use spec/specfem-264.png>
+Package pdftex.def Info: spec/specfem-264.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-264.png>
+<a0,fr264>
+<spec/specfem-265.png, id=1092, 770.88pt x 338.26375pt>
+File: spec/specfem-265.png Graphic file (type png)
+<use spec/specfem-265.png>
+Package pdftex.def Info: spec/specfem-265.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-265.png> <a0,fr265>
+<spec/specfem-266.png, id=1096, 770.88pt x 338.26375pt>
+File: spec/specfem-266.png Graphic file (type png)
+<use spec/specfem-266.png>
+Package pdftex.def Info: spec/specfem-266.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-266.png>
+<a0,fr266>
+<spec/specfem-267.png, id=1100, 770.88pt x 338.26375pt>
+File: spec/specfem-267.png Graphic file (type png)
+<use spec/specfem-267.png>
+Package pdftex.def Info: spec/specfem-267.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-267.png> <a0,fr267>
+<spec/specfem-268.png, id=1104, 770.88pt x 338.26375pt>
+File: spec/specfem-268.png Graphic file (type png)
+<use spec/specfem-268.png>
+Package pdftex.def Info: spec/specfem-268.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-268.png>
+<a0,fr268>
+<spec/specfem-269.png, id=1108, 770.88pt x 338.26375pt>
+File: spec/specfem-269.png Graphic file (type png)
+<use spec/specfem-269.png>
+Package pdftex.def Info: spec/specfem-269.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-269.png> <a0,fr269>
+<spec/specfem-270.png, id=1112, 770.88pt x 338.26375pt>
+File: spec/specfem-270.png Graphic file (type png)
+<use spec/specfem-270.png>
+Package pdftex.def Info: spec/specfem-270.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-270.png>
+<a0,fr270>
+<spec/specfem-271.png, id=1116, 770.88pt x 338.26375pt>
+File: spec/specfem-271.png Graphic file (type png)
+<use spec/specfem-271.png>
+Package pdftex.def Info: spec/specfem-271.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-271.png> <a0,fr271>
+<spec/specfem-272.png, id=1120, 770.88pt x 338.26375pt>
+File: spec/specfem-272.png Graphic file (type png)
+<use spec/specfem-272.png>
+Package pdftex.def Info: spec/specfem-272.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-272.png>
+<a0,fr272>
+<spec/specfem-273.png, id=1124, 770.88pt x 338.26375pt>
+File: spec/specfem-273.png Graphic file (type png)
+<use spec/specfem-273.png>
+Package pdftex.def Info: spec/specfem-273.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-273.png> <a0,fr273>
+<spec/specfem-274.png, id=1128, 770.88pt x 338.26375pt>
+File: spec/specfem-274.png Graphic file (type png)
+<use spec/specfem-274.png>
+Package pdftex.def Info: spec/specfem-274.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-274.png>
+<a0,fr274>
+<spec/specfem-275.png, id=1132, 770.88pt x 338.26375pt>
+File: spec/specfem-275.png Graphic file (type png)
+<use spec/specfem-275.png>
+Package pdftex.def Info: spec/specfem-275.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-275.png> <a0,fr275>
+<spec/specfem-276.png, id=1136, 770.88pt x 338.26375pt>
+File: spec/specfem-276.png Graphic file (type png)
+<use spec/specfem-276.png>
+Package pdftex.def Info: spec/specfem-276.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-276.png>
+<a0,fr276>
+<spec/specfem-277.png, id=1140, 770.88pt x 338.26375pt>
+File: spec/specfem-277.png Graphic file (type png)
+<use spec/specfem-277.png>
+Package pdftex.def Info: spec/specfem-277.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-277.png> <a0,fr277>
+<spec/specfem-278.png, id=1144, 770.88pt x 338.26375pt>
+File: spec/specfem-278.png Graphic file (type png)
+<use spec/specfem-278.png>
+Package pdftex.def Info: spec/specfem-278.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-278.png>
+<a0,fr278>
+<spec/specfem-279.png, id=1148, 770.88pt x 338.26375pt>
+File: spec/specfem-279.png Graphic file (type png)
+<use spec/specfem-279.png>
+Package pdftex.def Info: spec/specfem-279.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-279.png> <a0,fr279>
+<spec/specfem-280.png, id=1152, 770.88pt x 338.26375pt>
+File: spec/specfem-280.png Graphic file (type png)
+<use spec/specfem-280.png>
+Package pdftex.def Info: spec/specfem-280.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-280.png>
+<a0,fr280>
+<spec/specfem-281.png, id=1156, 770.88pt x 338.26375pt>
+File: spec/specfem-281.png Graphic file (type png)
+<use spec/specfem-281.png>
+Package pdftex.def Info: spec/specfem-281.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-281.png> <a0,fr281>
+<spec/specfem-282.png, id=1160, 770.88pt x 338.26375pt>
+File: spec/specfem-282.png Graphic file (type png)
+<use spec/specfem-282.png>
+Package pdftex.def Info: spec/specfem-282.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-282.png>
+<a0,fr282>
+<spec/specfem-283.png, id=1164, 770.88pt x 338.26375pt>
+File: spec/specfem-283.png Graphic file (type png)
+<use spec/specfem-283.png>
+Package pdftex.def Info: spec/specfem-283.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-283.png> <a0,fr283>
+<spec/specfem-284.png, id=1168, 770.88pt x 338.26375pt>
+File: spec/specfem-284.png Graphic file (type png)
+<use spec/specfem-284.png>
+Package pdftex.def Info: spec/specfem-284.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-284.png>
+<a0,fr284>
+<spec/specfem-285.png, id=1172, 770.88pt x 338.26375pt>
+File: spec/specfem-285.png Graphic file (type png)
+<use spec/specfem-285.png>
+Package pdftex.def Info: spec/specfem-285.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-285.png> <a0,fr285>
+<spec/specfem-286.png, id=1176, 770.88pt x 338.26375pt>
+File: spec/specfem-286.png Graphic file (type png)
+<use spec/specfem-286.png>
+Package pdftex.def Info: spec/specfem-286.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-286.png>
+<a0,fr286>
+<spec/specfem-287.png, id=1180, 770.88pt x 338.26375pt>
+File: spec/specfem-287.png Graphic file (type png)
+<use spec/specfem-287.png>
+Package pdftex.def Info: spec/specfem-287.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-287.png> <a0,fr287>
+<spec/specfem-288.png, id=1184, 770.88pt x 338.26375pt>
+File: spec/specfem-288.png Graphic file (type png)
+<use spec/specfem-288.png>
+Package pdftex.def Info: spec/specfem-288.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-288.png>
+<a0,fr288>
+<spec/specfem-289.png, id=1188, 770.88pt x 338.26375pt>
+File: spec/specfem-289.png Graphic file (type png)
+<use spec/specfem-289.png>
+Package pdftex.def Info: spec/specfem-289.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-289.png> <a0,fr289>
+<spec/specfem-290.png, id=1192, 770.88pt x 338.26375pt>
+File: spec/specfem-290.png Graphic file (type png)
+<use spec/specfem-290.png>
+Package pdftex.def Info: spec/specfem-290.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-290.png>
+<a0,fr290>
+<spec/specfem-291.png, id=1196, 770.88pt x 338.26375pt>
+File: spec/specfem-291.png Graphic file (type png)
+<use spec/specfem-291.png>
+Package pdftex.def Info: spec/specfem-291.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-291.png> <a0,fr291>
+<spec/specfem-292.png, id=1200, 770.88pt x 338.26375pt>
+File: spec/specfem-292.png Graphic file (type png)
+<use spec/specfem-292.png>
+Package pdftex.def Info: spec/specfem-292.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-292.png>
+<a0,fr292>
+<spec/specfem-293.png, id=1204, 770.88pt x 338.26375pt>
+File: spec/specfem-293.png Graphic file (type png)
+<use spec/specfem-293.png>
+Package pdftex.def Info: spec/specfem-293.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-293.png> <a0,fr293>
+<spec/specfem-294.png, id=1208, 770.88pt x 338.26375pt>
+File: spec/specfem-294.png Graphic file (type png)
+<use spec/specfem-294.png>
+Package pdftex.def Info: spec/specfem-294.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-294.png>
+<a0,fr294>
+<spec/specfem-295.png, id=1212, 770.88pt x 338.26375pt>
+File: spec/specfem-295.png Graphic file (type png)
+<use spec/specfem-295.png>
+Package pdftex.def Info: spec/specfem-295.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-295.png> <a0,fr295>
+<spec/specfem-296.png, id=1216, 770.88pt x 338.26375pt>
+File: spec/specfem-296.png Graphic file (type png)
+<use spec/specfem-296.png>
+Package pdftex.def Info: spec/specfem-296.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-296.png>
+<a0,fr296>
+<spec/specfem-297.png, id=1220, 770.88pt x 338.26375pt>
+File: spec/specfem-297.png Graphic file (type png)
+<use spec/specfem-297.png>
+Package pdftex.def Info: spec/specfem-297.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-297.png> <a0,fr297>
+<spec/specfem-298.png, id=1224, 770.88pt x 338.26375pt>
+File: spec/specfem-298.png Graphic file (type png)
+<use spec/specfem-298.png>
+Package pdftex.def Info: spec/specfem-298.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-298.png>
+<a0,fr298>
+<spec/specfem-299.png, id=1228, 770.88pt x 338.26375pt>
+File: spec/specfem-299.png Graphic file (type png)
+<use spec/specfem-299.png>
+Package pdftex.def Info: spec/specfem-299.png  used on input line 79.
+(pdftex.def)             Requested size: 770.87813pt x 338.26291pt.
+ <./spec/specfem-299.png> <a0,fr299>
 File: logos/polytechnique_white.png Graphic file (type png)
 <use logos/polytechnique_white.png>
-Package pdftex.def Info: logos/polytechnique_white.png  used on input line 161.
+Package pdftex.def Info: logos/polytechnique_white.png  used on input line 81.
+(pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
+
+Overfull \hbox (63.81905pt too wide) has occurred while \output is active
+[]  
+ []
+
+[5])
+File: logos/polytechnique_white.png Graphic file (type png)
+<use logos/polytechnique_white.png>
+Package pdftex.def Info: logos/polytechnique_white.png  used on input line 170.
 
 (pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
 
@@ -1031,39 +3028,25 @@ Overfull \hbox (63.81905pt too wide) has occurred while \output is active
 []  
  []
 
-[5]
-File: logos/polytechnique_white.png Graphic file (type png)
-<use logos/polytechnique_white.png>
-Package pdftex.def Info: logos/polytechnique_white.png  used on input line 172.
-
-(pdftex.def)             Requested size: 148.21336pt x 33.60545pt.
-
-Overfull \hbox (63.81905pt too wide) has occurred while \output is active
-[]  
- []
-
-[1
-
-
-] (main.aux (Introduction.aux) (manual.aux)) ) 
+[6] (main.aux (Introduction.aux) (manual.aux)) ) 
 Here is how much of TeX's memory you used:
- 18090 strings out of 475385
- 359515 string characters out of 2771206
- 884414 words of memory out of 3000000
- 39070 multiletter control sequences out of 15000+600000
+ 24074 strings out of 475385
+ 496260 string characters out of 2771206
+ 928773 words of memory out of 3000000
+ 44709 multiletter control sequences out of 15000+600000
  521624 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,23n,91p,449b,1524s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Camilla Rodrigues\AppD
-ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/Camil
-la Rodrigues/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/User
-s/Camilla Rodrigues/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb
-8a.pfb><C:/Users/Camilla Rodrigues/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/helvetic/uhvr8a.pfb><C:/Users/Camilla Rodrigues/AppData/Local/Programs/MiKTeX
-/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (7 pages, 127816 bytes).
+ 87i,24n,91p,449b,1524s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Camilla Rodrigues\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk>{C:/Users/Cam
+illa Rodrigues/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Us
+ers/Camilla Rodrigues/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uh
+vb8a.pfb><C:/Users/Camilla Rodrigues/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/helvetic/uhvr8a.pfb><C:/Users/Camilla Rodrigues/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (7 pages, 10874128 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 1587 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3335 words of extra memory for PDF output out of 10000 (max. 10000000)
 

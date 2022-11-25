@@ -23,8 +23,10 @@ footskip=100pt,includehead]{geometry}
 \usepackage{mathptmx}
 \usepackage{anyfontsize} %% Change the font size at any moment
 \usepackage{t1enc}
+\usepackage{setspace}
 
 %%% GRAPHIC PACKAGES %%%
+\usepackage{graphicx,animate}
 \usepackage{graphicx}
 \usepackage{epstopdf}
 \graphicspath{{./images/}{./gnuplot/}}
@@ -94,6 +96,13 @@ Prof. Fabien-Ouellet group of research}
 \titleformat{\subsubsection}
 	{\color{black}\large\bfseries}{\thesubsubsection\enspace\ul{}}{-0.10em}{\ul}
 
+%% TEXT LAYOUT %%
+\onehalfspacing
+\pagenumbering{arabic}
+\renewcommand{\arraystretch}{1.5}
+\setlength{\parskip}{7.68pt}
+\setlength\parindent{0pt}
+
 
 %%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -159,14 +168,5 @@ Prof. Fabien-Ouellet group of research}
 %% DOCUMENT %%
 \include{Introduction}
 \include{manual}
-
-%% TEXT LAYOUT %%
-\pagenumbering{arabic}
-\justify
-\renewcommand{\arraystretch}{1.2}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{7.68pt}
-
-
 
 \end{document}
